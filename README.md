@@ -8,4 +8,4 @@ The app.delete mixed with the fs was used to complete the delete function.
 ![alt text](note-taker.png)
 
 github:https://github.com/ZekeTinch/note-taker
-website:file:///C:/Users/zeket/bootcamp/ccallenges/note-taker/public/index.html
+website:https://note-taker-ga15.onrender.com/
